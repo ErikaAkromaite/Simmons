@@ -1,0 +1,87 @@
+* {
+    box-sizing: border-box;
+}
+
+.virsus {
+    background-color: rgba(55, 46, 184, 0.603);
+    height: 170px;
+    color: rgb(241, 209, 209)
+}
+
+.virsutine-juosta {
+    display: flex;
+    justify-content: space-between;
+    height: 70px;
+    background-color: rgba(24, 108, 185, 0.603);
+}
+
+
+.kaire-puse {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 25%;
+    height: 70px;
+}
+
+.mygtukas-kaireje {
+    width: 50%;
+    gap: 10px;
+    text-align: center;
+} 
+
+.vidurys1 {
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+}
+
+.vidurys2 {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    padding-bottom: 1em;
+}
+
+
+.desine-puse {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.desinys-mygtukas1 {
+    border: 1px solid rgba(236, 234, 234, 0.836);
+    width: 50%;
+    text-align: center;
+}
+
+.meniu {
+    display: flex;
+    justify-content: center;
+    background-color: rgba(21, 21, 88, 0.603);
+}
+
+.meniu1 {
+    display: flex;
+    align-items: center;
+    height: 48px;
+    width: 90%;
+}
+
+.meniu-mygtukai {
+    text-align: center;
+    height: 50px;
+    flex-grow: 1;
+    border: 1px solid rgb(250, 228, 228);
+}
+
+.meniu-mygtukai2 {
+    background-color: rgba(7, 7, 24, 0.603);
+    text-align: center;
+    height: 50px;
+    flex-grow: 1;
+    border: 1px solid rgb(250, 228, 228);
+}
+
